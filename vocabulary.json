@@ -1,0 +1,2092 @@
+[
+  {
+    "word": "abandon",
+    "meaning": "terk etmek",
+    "type": "word"
+  },
+  {
+    "word": "ability",
+    "meaning": "yetenek",
+    "type": "word"
+  },
+  {
+    "word": "absolutely",
+    "meaning": "kesinlikle",
+    "type": "word"
+  },
+  {
+    "word": "abundance",
+    "meaning": "bolluk",
+    "type": "word"
+  },
+  {
+    "word": "abundant",
+    "meaning": "bol",
+    "type": "word"
+  },
+  {
+    "word": "abuse",
+    "meaning": "istismar etmek",
+    "type": "word"
+  },
+  {
+    "word": "accelerate",
+    "meaning": "hızlandırmak",
+    "type": "word"
+  },
+  {
+    "word": "accept",
+    "meaning": "kabul etmek",
+    "type": "word"
+  },
+  {
+    "word": "acceptable",
+    "meaning": "kabul edilebilir",
+    "type": "word"
+  },
+  {
+    "word": "acceptance",
+    "meaning": "kabul etmek",
+    "type": "word"
+  },
+  {
+    "word": "access",
+    "meaning": "erişim",
+    "type": "word"
+  },
+  {
+    "word": "accessible",
+    "meaning": "erişilebilir",
+    "type": "word"
+  },
+  {
+    "word": "accidentally",
+    "meaning": "kazara",
+    "type": "word"
+  },
+  {
+    "word": "accompany",
+    "meaning": "eşlik etmek",
+    "type": "word"
+  },
+  {
+    "word": "accomplish",
+    "meaning": "başarmak",
+    "type": "word"
+  },
+  {
+    "word": "accumulate",
+    "meaning": "birikmek",
+    "type": "word"
+  },
+  {
+    "word": "accumulation",
+    "meaning": "birikim",
+    "type": "word"
+  },
+  {
+    "word": "accuracy",
+    "meaning": "doğruluk",
+    "type": "word"
+  },
+  {
+    "word": "accurately",
+    "meaning": "doğru",
+    "type": "word"
+  },
+  {
+    "word": "accusation",
+    "meaning": "suçlama",
+    "type": "word"
+  },
+  {
+    "word": "achievable",
+    "meaning": "başarmak",
+    "type": "word"
+  },
+  {
+    "word": "achieve",
+    "meaning": "başarmak",
+    "type": "word"
+  },
+  {
+    "word": "achievement",
+    "meaning": "başarı",
+    "type": "word"
+  },
+  {
+    "word": "acknowledge",
+    "meaning": "kabul etmek",
+    "type": "word"
+  },
+  {
+    "word": "acquire",
+    "meaning": "edinmek",
+    "type": "word"
+  },
+  {
+    "word": "activation",
+    "meaning": "etkinleştirmek",
+    "type": "word"
+  },
+  {
+    "word": "actually",
+    "meaning": "aslında",
+    "type": "word"
+  },
+  {
+    "word": "adaptable",
+    "meaning": "uyum sağlayabilir",
+    "type": "word"
+  },
+  {
+    "word": "addiction",
+    "meaning": "bağımlılık",
+    "type": "word"
+  },
+  {
+    "word": "additional",
+    "meaning": "ek",
+    "type": "word"
+  },
+  {
+    "word": "address",
+    "meaning": "adres",
+    "type": "word"
+  },
+  {
+    "word": "adequate",
+    "meaning": "yeterli",
+    "type": "word"
+  },
+  {
+    "word": "adhere",
+    "meaning": "yapışmak",
+    "type": "word"
+  },
+  {
+    "word": "adjust",
+    "meaning": "ayarlamak",
+    "type": "word"
+  },
+  {
+    "word": "adjustment",
+    "meaning": "ayar",
+    "type": "word"
+  },
+  {
+    "word": "administer",
+    "meaning": "yönetmek",
+    "type": "word"
+  },
+  {
+    "word": "admiration",
+    "meaning": "hayran olmak",
+    "type": "word"
+  },
+  {
+    "word": "admire",
+    "meaning": "hayran olmak",
+    "type": "word"
+  },
+  {
+    "word": "admission",
+    "meaning": "kabul",
+    "type": "word"
+  },
+  {
+    "word": "admit",
+    "meaning": "itiraf etmek",
+    "type": "word"
+  },
+  {
+    "word": "admitting",
+    "meaning": "itiraf etmek",
+    "type": "word"
+  },
+  {
+    "word": "adopt",
+    "meaning": "benimsemek",
+    "type": "word"
+  },
+  {
+    "word": "adoption",
+    "meaning": "evlat edinme",
+    "type": "word"
+  },
+  {
+    "word": "advance",
+    "meaning": "ilerleme",
+    "type": "word"
+  },
+  {
+    "word": "advancement",
+    "meaning": "ilerleme",
+    "type": "word"
+  },
+  {
+    "word": "advantage",
+    "meaning": "avantaj",
+    "type": "word"
+  },
+  {
+    "word": "adverse",
+    "meaning": "olumsuz",
+    "type": "word"
+  },
+  {
+    "word": "adversity",
+    "meaning": "olumsuz",
+    "type": "word"
+  },
+  {
+    "word": "affect",
+    "meaning": "etkilemek",
+    "type": "word"
+  },
+  {
+    "word": "affordable",
+    "meaning": "uygun fiyatlı",
+    "type": "word"
+  },
+  {
+    "word": "aggressively",
+    "meaning": "saldırgan",
+    "type": "word"
+  },
+  {
+    "word": "allegedly",
+    "meaning": "iddia edilene göre",
+    "type": "word"
+  },
+  {
+    "word": "alliance",
+    "meaning": "ittifak",
+    "type": "word"
+  },
+  {
+    "word": "allocate",
+    "meaning": "tahsis etmek",
+    "type": "word"
+  },
+  {
+    "word": "allocation",
+    "meaning": "tahsis",
+    "type": "word"
+  },
+  {
+    "word": "allow",
+    "meaning": "izin vermek",
+    "type": "word"
+  },
+  {
+    "word": "alter",
+    "meaning": "değiştirmek",
+    "type": "word"
+  },
+  {
+    "word": "alteration",
+    "meaning": "değişiklik",
+    "type": "word"
+  },
+  {
+    "word": "alternatively",
+    "meaning": "alternatif",
+    "type": "word"
+  },
+  {
+    "word": "ambiguity",
+    "meaning": "belirsizlik",
+    "type": "word"
+  },
+  {
+    "word": "ambiguously",
+    "meaning": "belirsiz",
+    "type": "word"
+  },
+  {
+    "word": "ambition",
+    "meaning": "hırs",
+    "type": "word"
+  },
+  {
+    "word": "analysis",
+    "meaning": "analiz",
+    "type": "word"
+  },
+  {
+    "word": "ancestors",
+    "meaning": "ata",
+    "type": "word"
+  },
+  {
+    "word": "ancient",
+    "meaning": "antik",
+    "type": "word"
+  },
+  {
+    "word": "annually",
+    "meaning": "yıllık",
+    "type": "word"
+  },
+  {
+    "word": "anticipation",
+    "meaning": "beklenti",
+    "type": "word"
+  },
+  {
+    "word": "anxious",
+    "meaning": "endişeli",
+    "type": "word"
+  },
+  {
+    "word": "apparently",
+    "meaning": "görünüşe göre",
+    "type": "word"
+  },
+  {
+    "word": "appeal",
+    "meaning": "başvurmak",
+    "type": "word"
+  },
+  {
+    "word": "appearance",
+    "meaning": "görünüş",
+    "type": "word"
+  },
+  {
+    "word": "application",
+    "meaning": "uygulama",
+    "type": "word"
+  },
+  {
+    "word": "apply",
+    "meaning": "uygulamak",
+    "type": "word"
+  },
+  {
+    "word": "appoint",
+    "meaning": "atamak",
+    "type": "word"
+  },
+  {
+    "word": "appreciate",
+    "meaning": "takdir etmek",
+    "type": "word"
+  },
+  {
+    "word": "appreciation",
+    "meaning": "takdir",
+    "type": "word"
+  },
+  {
+    "word": "approach",
+    "meaning": "yaklaşım",
+    "type": "word"
+  },
+  {
+    "word": "appropriate",
+    "meaning": "uygun",
+    "type": "word"
+  },
+  {
+    "word": "approval",
+    "meaning": "onay",
+    "type": "word"
+  },
+  {
+    "word": "approve",
+    "meaning": "onaylamak",
+    "type": "word"
+  },
+  {
+    "word": "approximately",
+    "meaning": "yaklaşık olarak",
+    "type": "word"
+  },
+  {
+    "word": "arbitrarily",
+    "meaning": "keyfi",
+    "type": "word"
+  },
+  {
+    "word": "argue",
+    "meaning": "tartışmak",
+    "type": "word"
+  },
+  {
+    "word": "arrange",
+    "meaning": "düzenlemek",
+    "type": "word"
+  },
+  {
+    "word": "articulate",
+    "meaning": "ifade etmek",
+    "type": "word"
+  },
+  {
+    "word": "artificial",
+    "meaning": "yapay",
+    "type": "word"
+  },
+  {
+    "word": "aspiration",
+    "meaning": "arzu",
+    "type": "word"
+  },
+  {
+    "word": "assess",
+    "meaning": "değerlendirmek",
+    "type": "word"
+  },
+  {
+    "word": "assessments",
+    "meaning": "değerlendirme",
+    "type": "word"
+  },
+  {
+    "word": "association",
+    "meaning": "dernek",
+    "type": "word"
+  },
+  {
+    "word": "assume",
+    "meaning": "varsaymak",
+    "type": "word"
+  },
+  {
+    "word": "assumption",
+    "meaning": "varsayım",
+    "type": "word"
+  },
+  {
+    "word": "assurance",
+    "meaning": "güvence",
+    "type": "word"
+  },
+  {
+    "word": "astonished",
+    "meaning": "şaşırtmak",
+    "type": "word"
+  },
+  {
+    "word": "attach",
+    "meaning": "eklemek",
+    "type": "word"
+  },
+  {
+    "word": "attachment",
+    "meaning": "eklemek",
+    "type": "word"
+  },
+  {
+    "word": "attain",
+    "meaning": "elde etmek",
+    "type": "word"
+  },
+  {
+    "word": "attainable",
+    "meaning": "elde etmek",
+    "type": "word"
+  },
+  {
+    "word": "attempt",
+    "meaning": "girişim",
+    "type": "word"
+  },
+  {
+    "word": "attitude",
+    "meaning": "tutum",
+    "type": "word"
+  },
+  {
+    "word": "attract",
+    "meaning": "çekmek",
+    "type": "word"
+  },
+  {
+    "word": "attraction",
+    "meaning": "cazibe",
+    "type": "word"
+  },
+  {
+    "word": "attribute",
+    "meaning": "nitelik",
+    "type": "word"
+  },
+  {
+    "word": "auction",
+    "meaning": "açık artırma",
+    "type": "word"
+  },
+  {
+    "word": "availability",
+    "meaning": "kullanılabilirlik",
+    "type": "word"
+  },
+  {
+    "word": "available",
+    "meaning": "mevcut",
+    "type": "word"
+  },
+  {
+    "word": "average",
+    "meaning": "ortalama",
+    "type": "word"
+  },
+  {
+    "word": "avoid",
+    "meaning": "kaçınmak",
+    "type": "word"
+  },
+  {
+    "word": "avoidable",
+    "meaning": "kaçınmak",
+    "type": "word"
+  },
+  {
+    "word": "avoidance",
+    "meaning": "kaçınmak",
+    "type": "word"
+  },
+  {
+    "word": "awareness",
+    "meaning": "farkındalık",
+    "type": "word"
+  },
+  {
+    "word": "badly",
+    "meaning": "kötü",
+    "type": "word"
+  },
+  {
+    "word": "balance",
+    "meaning": "denge",
+    "type": "word"
+  },
+  {
+    "word": "barrier",
+    "meaning": "engel",
+    "type": "word"
+  },
+  {
+    "word": "beat",
+    "meaning": "yenmek",
+    "type": "word"
+  },
+  {
+    "word": "beneficial",
+    "meaning": "faydalı",
+    "type": "word"
+  },
+  {
+    "word": "benefit",
+    "meaning": "fayda",
+    "type": "word"
+  },
+  {
+    "word": "bizarre",
+    "meaning": "tuhaf",
+    "type": "word"
+  },
+  {
+    "word": "blend",
+    "meaning": "karışım",
+    "type": "word"
+  },
+  {
+    "word": "blindly",
+    "meaning": "kör",
+    "type": "word"
+  },
+  {
+    "word": "boost",
+    "meaning": "artırmak",
+    "type": "word"
+  },
+  {
+    "word": "borrow",
+    "meaning": "ödünç almak",
+    "type": "word"
+  },
+  {
+    "word": "breakdown",
+    "meaning": "çöküş",
+    "type": "word"
+  },
+  {
+    "word": "breakthrough",
+    "meaning": "atılım",
+    "type": "word"
+  },
+  {
+    "word": "brief",
+    "meaning": "kısa",
+    "type": "word"
+  },
+  {
+    "word": "broadly",
+    "meaning": "genişçe",
+    "type": "word"
+  },
+  {
+    "word": "calculation",
+    "meaning": "hesaplama",
+    "type": "word"
+  },
+  {
+    "word": "calm",
+    "meaning": "sakin",
+    "type": "word"
+  },
+  {
+    "word": "capabilities",
+    "meaning": "yetenek",
+    "type": "word"
+  },
+  {
+    "word": "capability",
+    "meaning": "yetenek",
+    "type": "word"
+  },
+  {
+    "word": "capacity",
+    "meaning": "kapasite",
+    "type": "word"
+  },
+  {
+    "word": "capture",
+    "meaning": "yakalamak",
+    "type": "word"
+  },
+  {
+    "word": "carefully",
+    "meaning": "dikkatlice",
+    "type": "word"
+  },
+  {
+    "word": "casual",
+    "meaning": "gündelik",
+    "type": "word"
+  },
+  {
+    "word": "cause",
+    "meaning": "sebep",
+    "type": "word"
+  },
+  {
+    "word": "cautiously",
+    "meaning": "ihtiyatlı",
+    "type": "word"
+  },
+  {
+    "word": "ceaseless",
+    "meaning": "durmak",
+    "type": "word"
+  },
+  {
+    "word": "celebration",
+    "meaning": "kutlama",
+    "type": "word"
+  },
+  {
+    "word": "challenge",
+    "meaning": "meydan okumak",
+    "type": "word"
+  },
+  {
+    "word": "choose",
+    "meaning": "seçmek",
+    "type": "word"
+  },
+  {
+    "word": "chronic",
+    "meaning": "kronik",
+    "type": "word"
+  },
+  {
+    "word": "circulate",
+    "meaning": "dolaşmak",
+    "type": "word"
+  },
+  {
+    "word": "circumstance",
+    "meaning": "durum",
+    "type": "word"
+  },
+  {
+    "word": "clarity",
+    "meaning": "netlik",
+    "type": "word"
+  },
+  {
+    "word": "classification",
+    "meaning": "sınıflandırma",
+    "type": "word"
+  },
+  {
+    "word": "clearly",
+    "meaning": "açıkça",
+    "type": "word"
+  },
+  {
+    "word": "close",
+    "meaning": "yakın",
+    "type": "word"
+  },
+  {
+    "word": "coincidence",
+    "meaning": "tesadüf",
+    "type": "word"
+  },
+  {
+    "word": "collaborate",
+    "meaning": "işbirliği yapmak",
+    "type": "word"
+  },
+  {
+    "word": "collaboration",
+    "meaning": "işbirliği",
+    "type": "word"
+  },
+  {
+    "word": "colleagues",
+    "meaning": "meslektaş",
+    "type": "word"
+  },
+  {
+    "word": "collect",
+    "meaning": "toplamak",
+    "type": "word"
+  },
+  {
+    "word": "collection",
+    "meaning": "koleksiyon",
+    "type": "word"
+  },
+  {
+    "word": "combat",
+    "meaning": "savaş",
+    "type": "word"
+  },
+  {
+    "word": "command",
+    "meaning": "komut",
+    "type": "word"
+  },
+  {
+    "word": "comment",
+    "meaning": "yorum",
+    "type": "word"
+  },
+  {
+    "word": "commitment",
+    "meaning": "bağlılık",
+    "type": "word"
+  },
+  {
+    "word": "committed",
+    "meaning": "işlemek",
+    "type": "word"
+  },
+  {
+    "word": "common",
+    "meaning": "yaygın",
+    "type": "word"
+  },
+  {
+    "word": "comparable",
+    "meaning": "karşılaştırılabilir",
+    "type": "word"
+  },
+  {
+    "word": "comparatively",
+    "meaning": "karşılaştırmalı",
+    "type": "word"
+  },
+  {
+    "word": "compelling",
+    "meaning": "ilgi uyandırıcı",
+    "type": "word"
+  },
+  {
+    "word": "compete",
+    "meaning": "rekabet etmek",
+    "type": "word"
+  },
+  {
+    "word": "competence",
+    "meaning": "yetkinlik",
+    "type": "word"
+  },
+  {
+    "word": "competition",
+    "meaning": "yarışma",
+    "type": "word"
+  },
+  {
+    "word": "competitive",
+    "meaning": "rekabetçi",
+    "type": "word"
+  },
+  {
+    "word": "compile",
+    "meaning": "derlemek",
+    "type": "word"
+  },
+  {
+    "word": "complain",
+    "meaning": "şikayet etmek",
+    "type": "word"
+  },
+  {
+    "word": "complaint",
+    "meaning": "şikayet",
+    "type": "word"
+  },
+  {
+    "word": "complete",
+    "meaning": "tamamlamak",
+    "type": "word"
+  },
+  {
+    "word": "complicating",
+    "meaning": "karmaşıklaştırmak",
+    "type": "word"
+  },
+  {
+    "word": "component",
+    "meaning": "bileşen",
+    "type": "word"
+  },
+  {
+    "word": "composition",
+    "meaning": "kompozisyon",
+    "type": "word"
+  },
+  {
+    "word": "comprehensive",
+    "meaning": "kapsamlı",
+    "type": "word"
+  },
+  {
+    "word": "comprised",
+    "meaning": "oluşmak",
+    "type": "word"
+  },
+  {
+    "word": "comprises",
+    "meaning": "oluşmak",
+    "type": "word"
+  },
+  {
+    "word": "compulsorily",
+    "meaning": "zorunlu",
+    "type": "word"
+  },
+  {
+    "word": "compulsory",
+    "meaning": "zorunlu",
+    "type": "word"
+  },
+  {
+    "word": "conceal",
+    "meaning": "gizlemek",
+    "type": "word"
+  },
+  {
+    "word": "concern",
+    "meaning": "endişe",
+    "type": "word"
+  },
+  {
+    "word": "conclusion",
+    "meaning": "sonuç",
+    "type": "word"
+  },
+  {
+    "word": "condition",
+    "meaning": "durum",
+    "type": "word"
+  },
+  {
+    "word": "conduct",
+    "meaning": "davranış",
+    "type": "word"
+  },
+  {
+    "word": "confidential",
+    "meaning": "gizli",
+    "type": "word"
+  },
+  {
+    "word": "confirm",
+    "meaning": "onaylamak",
+    "type": "word"
+  },
+  {
+    "word": "conflict",
+    "meaning": "çatışma",
+    "type": "word"
+  },
+  {
+    "word": "conform",
+    "meaning": "uymak",
+    "type": "word"
+  },
+  {
+    "word": "conformity",
+    "meaning": "uymak",
+    "type": "word"
+  },
+  {
+    "word": "confront",
+    "meaning": "yüzleşmek",
+    "type": "word"
+  },
+  {
+    "word": "confuse",
+    "meaning": "şaşırtmak",
+    "type": "word"
+  },
+  {
+    "word": "consecutively",
+    "meaning": "ardışık",
+    "type": "word"
+  },
+  {
+    "word": "consent",
+    "meaning": "rıza",
+    "type": "word"
+  },
+  {
+    "word": "consequence",
+    "meaning": "sonuç",
+    "type": "word"
+  },
+  {
+    "word": "conservation",
+    "meaning": "koruma",
+    "type": "word"
+  },
+  {
+    "word": "consider",
+    "meaning": "düşünmek",
+    "type": "word"
+  },
+  {
+    "word": "considerable",
+    "meaning": "önemli",
+    "type": "word"
+  },
+  {
+    "word": "considerably",
+    "meaning": "önemli ölçüde",
+    "type": "word"
+  },
+  {
+    "word": "consistent",
+    "meaning": "tutarlı",
+    "type": "word"
+  },
+  {
+    "word": "constant",
+    "meaning": "sürekli",
+    "type": "word"
+  },
+  {
+    "word": "constrain",
+    "meaning": "kısıtlamak",
+    "type": "word"
+  },
+  {
+    "word": "constraint",
+    "meaning": "kısıtlama",
+    "type": "word"
+  },
+  {
+    "word": "construction",
+    "meaning": "inşaat",
+    "type": "word"
+  },
+  {
+    "word": "constructive",
+    "meaning": "inşa etmek",
+    "type": "word"
+  },
+  {
+    "word": "consult",
+    "meaning": "danışmak",
+    "type": "word"
+  },
+  {
+    "word": "consume",
+    "meaning": "tüketmek",
+    "type": "word"
+  },
+  {
+    "word": "contain",
+    "meaning": "içermek",
+    "type": "word"
+  },
+  {
+    "word": "contamination",
+    "meaning": "kirletmek",
+    "type": "word"
+  },
+  {
+    "word": "contend",
+    "meaning": "iddia etmek",
+    "type": "word"
+  },
+  {
+    "word": "contradict",
+    "meaning": "çelişmek",
+    "type": "word"
+  },
+  {
+    "word": "contradiction",
+    "meaning": "çelişki",
+    "type": "word"
+  },
+  {
+    "word": "contribute",
+    "meaning": "katkıda bulunmak",
+    "type": "word"
+  },
+  {
+    "word": "contribution",
+    "meaning": "katkı",
+    "type": "word"
+  },
+  {
+    "word": "control",
+    "meaning": "kontrol",
+    "type": "word"
+  },
+  {
+    "word": "controversial",
+    "meaning": "tartışmalı",
+    "type": "word"
+  },
+  {
+    "word": "controversies",
+    "meaning": "tartışma",
+    "type": "word"
+  },
+  {
+    "word": "controversy",
+    "meaning": "tartışma",
+    "type": "word"
+  },
+  {
+    "word": "convenient",
+    "meaning": "uygun",
+    "type": "word"
+  },
+  {
+    "word": "convention",
+    "meaning": "kongre",
+    "type": "word"
+  },
+  {
+    "word": "conventional",
+    "meaning": "geleneksel",
+    "type": "word"
+  },
+  {
+    "word": "conversation",
+    "meaning": "konuşma",
+    "type": "word"
+  },
+  {
+    "word": "conversion",
+    "meaning": "dönüşüm",
+    "type": "word"
+  },
+  {
+    "word": "convert",
+    "meaning": "dönüştürmek",
+    "type": "word"
+  },
+  {
+    "word": "convertible",
+    "meaning": "dönüştürmek",
+    "type": "word"
+  },
+  {
+    "word": "convey",
+    "meaning": "iletmek",
+    "type": "word"
+  },
+  {
+    "word": "convince",
+    "meaning": "ikna etmek",
+    "type": "word"
+  },
+  {
+    "word": "convincingly",
+    "meaning": "ikna edici",
+    "type": "word"
+  },
+  {
+    "word": "cooperate",
+    "meaning": "işbirliği yapmak",
+    "type": "word"
+  },
+  {
+    "word": "correctly",
+    "meaning": "doğru şekilde",
+    "type": "word"
+  },
+  {
+    "word": "corrupt",
+    "meaning": "yozlaşmış",
+    "type": "word"
+  },
+  {
+    "word": "corruption",
+    "meaning": "yolsuzluk",
+    "type": "word"
+  },
+  {
+    "word": "counter",
+    "meaning": "tezgah",
+    "type": "word"
+  },
+  {
+    "word": "create",
+    "meaning": "yaratmak",
+    "type": "word"
+  },
+  {
+    "word": "critical",
+    "meaning": "kritik",
+    "type": "word"
+  },
+  {
+    "word": "crowded",
+    "meaning": "kalabalık",
+    "type": "word"
+  },
+  {
+    "word": "crucial",
+    "meaning": "çok önemli",
+    "type": "word"
+  },
+  {
+    "word": "cultivate",
+    "meaning": "yetiştirmek",
+    "type": "word"
+  },
+  {
+    "word": "cure",
+    "meaning": "tedavi",
+    "type": "word"
+  },
+  {
+    "word": "curiously",
+    "meaning": "meraklı",
+    "type": "word"
+  },
+  {
+    "word": "current",
+    "meaning": "mevcut",
+    "type": "word"
+  },
+  {
+    "word": "damaging",
+    "meaning": "hasar",
+    "type": "word"
+  },
+  {
+    "word": "dangerous",
+    "meaning": "tehlikeli",
+    "type": "word"
+  },
+  {
+    "word": "debatable",
+    "meaning": "tartışma",
+    "type": "word"
+  },
+  {
+    "word": "decently",
+    "meaning": "düzgün",
+    "type": "word"
+  },
+  {
+    "word": "deception",
+    "meaning": "aldatma",
+    "type": "word"
+  },
+  {
+    "word": "decide",
+    "meaning": "karar vermek",
+    "type": "word"
+  },
+  {
+    "word": "decisive",
+    "meaning": "kararlı",
+    "type": "word"
+  },
+  {
+    "word": "declare",
+    "meaning": "beyan etmek",
+    "type": "word"
+  },
+  {
+    "word": "decline",
+    "meaning": "düşüş",
+    "type": "word"
+  },
+  {
+    "word": "decrease",
+    "meaning": "azalmak",
+    "type": "word"
+  },
+  {
+    "word": "dedicate",
+    "meaning": "adamak",
+    "type": "word"
+  },
+  {
+    "word": "dedication",
+    "meaning": "adanmışlık",
+    "type": "word"
+  },
+  {
+    "word": "defeat",
+    "meaning": "yenilgi",
+    "type": "word"
+  },
+  {
+    "word": "defect",
+    "meaning": "kusur",
+    "type": "word"
+  },
+  {
+    "word": "defend",
+    "meaning": "savunmak",
+    "type": "word"
+  },
+  {
+    "word": "defensively",
+    "meaning": "savunmacı",
+    "type": "word"
+  },
+  {
+    "word": "deficiencies",
+    "meaning": "eksiklik",
+    "type": "word"
+  },
+  {
+    "word": "deficiency",
+    "meaning": "eksiklik",
+    "type": "word"
+  },
+  {
+    "word": "deficit",
+    "meaning": "açık",
+    "type": "word"
+  },
+  {
+    "word": "definite",
+    "meaning": "kesin",
+    "type": "word"
+  },
+  {
+    "word": "degree",
+    "meaning": "derece",
+    "type": "word"
+  },
+  {
+    "word": "delay",
+    "meaning": "gecikme",
+    "type": "word"
+  },
+  {
+    "word": "delete",
+    "meaning": "silmek",
+    "type": "word"
+  },
+  {
+    "word": "deliberate",
+    "meaning": "kasıtlı",
+    "type": "word"
+  },
+  {
+    "word": "delicate",
+    "meaning": "hassas",
+    "type": "word"
+  },
+  {
+    "word": "deliver",
+    "meaning": "teslim etmek",
+    "type": "word"
+  },
+  {
+    "word": "delivery",
+    "meaning": "teslimat",
+    "type": "word"
+  },
+  {
+    "word": "demand",
+    "meaning": "talep",
+    "type": "word"
+  },
+  {
+    "word": "dependent",
+    "meaning": "bağımlı",
+    "type": "word"
+  },
+  {
+    "word": "deprivation",
+    "meaning": "mahrum etmek",
+    "type": "word"
+  },
+  {
+    "word": "deprived",
+    "meaning": "mahrum etmek",
+    "type": "word"
+  },
+  {
+    "word": "derive",
+    "meaning": "türetmek",
+    "type": "word"
+  },
+  {
+    "word": "description",
+    "meaning": "açıklama",
+    "type": "word"
+  },
+  {
+    "word": "designate",
+    "meaning": "atamak",
+    "type": "word"
+  },
+  {
+    "word": "designation",
+    "meaning": "atamak",
+    "type": "word"
+  },
+  {
+    "word": "desirable",
+    "meaning": "arzulanan",
+    "type": "word"
+  },
+  {
+    "word": "desperately",
+    "meaning": "umutsuz",
+    "type": "word"
+  },
+  {
+    "word": "destroy",
+    "meaning": "yok etmek",
+    "type": "word"
+  },
+  {
+    "word": "destruction",
+    "meaning": "yıkım",
+    "type": "word"
+  },
+  {
+    "word": "detect",
+    "meaning": "tespit etmek",
+    "type": "word"
+  },
+  {
+    "word": "detectable",
+    "meaning": "tespit etmek",
+    "type": "word"
+  },
+  {
+    "word": "deteriorate",
+    "meaning": "kötüleşmek",
+    "type": "word"
+  },
+  {
+    "word": "determination",
+    "meaning": "kararlılık",
+    "type": "word"
+  },
+  {
+    "word": "determine",
+    "meaning": "belirlemek",
+    "type": "word"
+  },
+  {
+    "word": "detrimental",
+    "meaning": "zarar",
+    "type": "word"
+  },
+  {
+    "word": "devastating",
+    "meaning": "harap etmek",
+    "type": "word"
+  },
+  {
+    "word": "devastation",
+    "meaning": "harap etmek",
+    "type": "word"
+  },
+  {
+    "word": "develop",
+    "meaning": "geliştirmek",
+    "type": "word"
+  },
+  {
+    "word": "development",
+    "meaning": "gelişim",
+    "type": "word"
+  },
+  {
+    "word": "devoted",
+    "meaning": "adanmış",
+    "type": "word"
+  },
+  {
+    "word": "diagnosis",
+    "meaning": "teşhis",
+    "type": "word"
+  },
+  {
+    "word": "differ",
+    "meaning": "farklılık göstermek",
+    "type": "word"
+  },
+  {
+    "word": "difference",
+    "meaning": "fark",
+    "type": "word"
+  },
+  {
+    "word": "differentiate",
+    "meaning": "ayırt etmek",
+    "type": "word"
+  },
+  {
+    "word": "difficult",
+    "meaning": "zor",
+    "type": "word"
+  },
+  {
+    "word": "difficulty",
+    "meaning": "zorluk",
+    "type": "word"
+  },
+  {
+    "word": "dimension",
+    "meaning": "boyut",
+    "type": "word"
+  },
+  {
+    "word": "diminish",
+    "meaning": "azalmak",
+    "type": "word"
+  },
+  {
+    "word": "disadvantaged",
+    "meaning": "dezavantaj",
+    "type": "word"
+  },
+  {
+    "word": "disappear",
+    "meaning": "kaybolmak",
+    "type": "word"
+  },
+  {
+    "word": "disapproval",
+    "meaning": "onaylamamak",
+    "type": "word"
+  },
+  {
+    "word": "disapprove",
+    "meaning": "onaylamamak",
+    "type": "word"
+  },
+  {
+    "word": "disastrous",
+    "meaning": "feci",
+    "type": "word"
+  },
+  {
+    "word": "discourage",
+    "meaning": "cesaretini kırmak",
+    "type": "word"
+  },
+  {
+    "word": "discover",
+    "meaning": "keşfetmek",
+    "type": "word"
+  },
+  {
+    "word": "discriminate",
+    "meaning": "ayrımcılık yapmak",
+    "type": "word"
+  },
+  {
+    "word": "discrimination",
+    "meaning": "ayrımcılık",
+    "type": "word"
+  },
+  {
+    "word": "discussion",
+    "meaning": "tartışma",
+    "type": "word"
+  },
+  {
+    "word": "dismiss",
+    "meaning": "kovmak",
+    "type": "word"
+  },
+  {
+    "word": "dismisses",
+    "meaning": "kovmak",
+    "type": "word"
+  },
+  {
+    "word": "displayed",
+    "meaning": "ekran",
+    "type": "word"
+  },
+  {
+    "word": "disposable",
+    "meaning": "elden çıkarmak",
+    "type": "word"
+  },
+  {
+    "word": "disrupt",
+    "meaning": "bozmak",
+    "type": "word"
+  },
+  {
+    "word": "disruptions",
+    "meaning": "aksama",
+    "type": "word"
+  },
+  {
+    "word": "disruptive",
+    "meaning": "bozmak",
+    "type": "word"
+  },
+  {
+    "word": "dissolve",
+    "meaning": "çözülmek",
+    "type": "word"
+  },
+  {
+    "word": "distinct",
+    "meaning": "belirgin",
+    "type": "word"
+  },
+  {
+    "word": "distinction",
+    "meaning": "ayrım",
+    "type": "word"
+  },
+  {
+    "word": "distinctive",
+    "meaning": "ayırt edici",
+    "type": "word"
+  },
+  {
+    "word": "distinguish",
+    "meaning": "ayırt etmek",
+    "type": "word"
+  },
+  {
+    "word": "distract",
+    "meaning": "dikkatini dağıtmak",
+    "type": "word"
+  },
+  {
+    "word": "distraction",
+    "meaning": "dikkat dağıtıcı",
+    "type": "word"
+  },
+  {
+    "word": "distribution",
+    "meaning": "dağıtım",
+    "type": "word"
+  },
+  {
+    "word": "disturb",
+    "meaning": "rahatsız etmek",
+    "type": "word"
+  },
+  {
+    "word": "disturbance",
+    "meaning": "rahatsızlık",
+    "type": "word"
+  },
+  {
+    "word": "diverse",
+    "meaning": "çeşitli",
+    "type": "word"
+  },
+  {
+    "word": "diversities",
+    "meaning": "çeşitlilik",
+    "type": "word"
+  },
+  {
+    "word": "diversity",
+    "meaning": "çeşitlilik",
+    "type": "word"
+  },
+  {
+    "word": "divide",
+    "meaning": "bölmek",
+    "type": "word"
+  },
+  {
+    "word": "division",
+    "meaning": "bölüm",
+    "type": "word"
+  },
+  {
+    "word": "domestic",
+    "meaning": "yerli",
+    "type": "word"
+  },
+  {
+    "word": "dominantly",
+    "meaning": "hakim",
+    "type": "word"
+  },
+  {
+    "word": "doubtful",
+    "meaning": "şüpheli",
+    "type": "word"
+  },
+  {
+    "word": "dramatic",
+    "meaning": "dramatik",
+    "type": "word"
+  },
+  {
+    "word": "dramatically",
+    "meaning": "önemli ölçüde",
+    "type": "word"
+  },
+  {
+    "word": "eager",
+    "meaning": "istekli",
+    "type": "word"
+  },
+  {
+    "word": "early",
+    "meaning": "erken",
+    "type": "word"
+  },
+  {
+    "word": "easily",
+    "meaning": "kolayca",
+    "type": "word"
+  },
+  {
+    "word": "efficiency",
+    "meaning": "verimlilik",
+    "type": "word"
+  },
+  {
+    "word": "efficient",
+    "meaning": "verimli",
+    "type": "word"
+  },
+  {
+    "word": "elaborate",
+    "meaning": "ayrıntılı",
+    "type": "word"
+  },
+  {
+    "word": "election",
+    "meaning": "seçim",
+    "type": "word"
+  },
+  {
+    "word": "eligible",
+    "meaning": "uygun",
+    "type": "word"
+  },
+  {
+    "word": "elimination",
+    "meaning": "eleme",
+    "type": "word"
+  },
+  {
+    "word": "embarrassing",
+    "meaning": "utandırmak",
+    "type": "word"
+  },
+  {
+    "word": "emerge",
+    "meaning": "ortaya çıkmak",
+    "type": "word"
+  },
+  {
+    "word": "emotion",
+    "meaning": "duygu",
+    "type": "word"
+  },
+  {
+    "word": "empirical",
+    "meaning": "deneysel",
+    "type": "word"
+  },
+  {
+    "word": "employ",
+    "meaning": "işe almak",
+    "type": "word"
+  },
+  {
+    "word": "enable",
+    "meaning": "etkinleştirmek",
+    "type": "word"
+  },
+  {
+    "word": "endlessly",
+    "meaning": "sonsuz",
+    "type": "word"
+  },
+  {
+    "word": "endurable",
+    "meaning": "katlanmak",
+    "type": "word"
+  },
+  {
+    "word": "endurance",
+    "meaning": "katlanmak",
+    "type": "word"
+  },
+  {
+    "word": "endure",
+    "meaning": "katlanmak",
+    "type": "word"
+  },
+  {
+    "word": "enormous",
+    "meaning": "muazzam",
+    "type": "word"
+  },
+  {
+    "word": "enrichment",
+    "meaning": "zenginleştirmek",
+    "type": "word"
+  },
+  {
+    "word": "ensure",
+    "meaning": "sağlamak",
+    "type": "word"
+  },
+  {
+    "word": "entertain",
+    "meaning": "eğlendirmek",
+    "type": "word"
+  },
+  {
+    "word": "entirely",
+    "meaning": "tamamen",
+    "type": "word"
+  },
+  {
+    "word": "entitled",
+    "meaning": "hak etmek",
+    "type": "word"
+  },
+  {
+    "word": "equally",
+    "meaning": "eşit",
+    "type": "word"
+  },
+  {
+    "word": "equation",
+    "meaning": "denklem",
+    "type": "word"
+  },
+  {
+    "word": "equipment",
+    "meaning": "ekipman",
+    "type": "word"
+  },
+  {
+    "word": "equivalent",
+    "meaning": "eşdeğer",
+    "type": "word"
+  },
+  {
+    "word": "eradicate",
+    "meaning": "yok etmek",
+    "type": "word"
+  },
+  {
+    "word": "escalate",
+    "meaning": "tırmanmak",
+    "type": "word"
+  },
+  {
+    "word": "essential",
+    "meaning": "gerekli",
+    "type": "word"
+  },
+  {
+    "word": "establish",
+    "meaning": "kurmak",
+    "type": "word"
+  },
+  {
+    "word": "establishment",
+    "meaning": "kuruluş",
+    "type": "word"
+  },
+  {
+    "word": "estimate",
+    "meaning": "tahmin",
+    "type": "word"
+  },
+  {
+    "word": "evenly",
+    "meaning": "bile",
+    "type": "word"
+  },
+  {
+    "word": "eventually",
+    "meaning": "sonunda",
+    "type": "word"
+  },
+  {
+    "word": "evidence",
+    "meaning": "kanıt",
+    "type": "word"
+  },
+  {
+    "word": "evident",
+    "meaning": "belirgin",
+    "type": "word"
+  },
+  {
+    "word": "exactly",
+    "meaning": "kesinlikle",
+    "type": "word"
+  },
+  {
+    "word": "examination",
+    "meaning": "muayene",
+    "type": "word"
+  },
+  {
+    "word": "examine",
+    "meaning": "incelemek",
+    "type": "word"
+  },
+  {
+    "word": "exceed",
+    "meaning": "aşmak",
+    "type": "word"
+  },
+  {
+    "word": "exception",
+    "meaning": "istisna",
+    "type": "word"
+  },
+  {
+    "word": "exceptional",
+    "meaning": "olağanüstü",
+    "type": "word"
+  },
+  {
+    "word": "excessive",
+    "meaning": "aşırı",
+    "type": "word"
+  },
+  {
+    "word": "exchange",
+    "meaning": "değiş tokuş",
+    "type": "word"
+  },
+  {
+    "word": "excited",
+    "meaning": "heyecanlı",
+    "type": "word"
+  },
+  {
+    "word": "exclusive",
+    "meaning": "özel",
+    "type": "word"
+  },
+  {
+    "word": "excuse",
+    "meaning": "bahane",
+    "type": "word"
+  },
+  {
+    "word": "exhausted",
+    "meaning": "tükenmiş",
+    "type": "word"
+  },
+  {
+    "word": "exhausting",
+    "meaning": "egzoz",
+    "type": "word"
+  },
+  {
+    "word": "expand",
+    "meaning": "genişletmek",
+    "type": "word"
+  },
+  {
+    "word": "expansion",
+    "meaning": "genişleme",
+    "type": "word"
+  },
+  {
+    "word": "expect",
+    "meaning": "beklemek",
+    "type": "word"
+  },
+  {
+    "word": "expectation",
+    "meaning": "beklenti",
+    "type": "word"
+  },
+  {
+    "word": "expedition",
+    "meaning": "sefer",
+    "type": "word"
+  },
+  {
+    "word": "expenditure",
+    "meaning": "harcama",
+    "type": "word"
+  },
+  {
+    "word": "expense",
+    "meaning": "gider",
+    "type": "word"
+  },
+  {
+    "word": "explain",
+    "meaning": "açıklamak",
+    "type": "word"
+  },
+  {
+    "word": "explanation",
+    "meaning": "açıklama",
+    "type": "word"
+  },
+  {
+    "word": "explicit",
+    "meaning": "açık",
+    "type": "word"
+  },
+  {
+    "word": "explore",
+    "meaning": "keşfetmek",
+    "type": "word"
+  },
+  {
+    "word": "explorers",
+    "meaning": "kaşif",
+    "type": "word"
+  },
+  {
+    "word": "exposure",
+    "meaning": "maruz kalma",
+    "type": "word"
+  },
+  {
+    "word": "express",
+    "meaning": "ifade etmek",
+    "type": "word"
+  },
+  {
+    "word": "extend",
+    "meaning": "uzatmak",
+    "type": "word"
+  },
+  {
+    "word": "extension",
+    "meaning": "uzantı",
+    "type": "word"
+  },
+  {
+    "word": "extensively",
+    "meaning": "kapsamlı",
+    "type": "word"
+  },
+  {
+    "word": "external",
+    "meaning": "dış",
+    "type": "word"
+  },
+  {
+    "word": "extinction",
+    "meaning": "yok olma",
+    "type": "word"
+  },
+  {
+    "word": "extract",
+    "meaning": "öz",
+    "type": "word"
+  },
+  {
+    "word": "extraordinarily",
+    "meaning": "olağanüstü",
+    "type": "word"
+  },
+  {
+    "word": "facilitate",
+    "meaning": "kolaylaştırmak",
+    "type": "word"
+  },
+  {
+    "word": "facility",
+    "meaning": "tesis",
+    "type": "word"
+  },
+  {
+    "word": "fail",
+    "meaning": "başarısız olmak",
+    "type": "word"
+  },
+  {
+    "word": "failure",
+    "meaning": "başarısızlık",
+    "type": "word"
+  },
+  {
+    "word": "fairly",
+    "meaning": "oldukça",
+    "type": "word"
+  },
+  {
+    "word": "familiar",
+    "meaning": "tanıdık",
+    "type": "word"
+  },
+  {
+    "word": "familiarity",
+    "meaning": "tanıdık",
+    "type": "word"
+  },
+  {
+    "word": "fatally",
+    "meaning": "ölümcül",
+    "type": "word"
+  },
+  {
+    "word": "features",
+    "meaning": "özellik",
+    "type": "word"
+  },
+  {
+    "word": "fetch",
+    "meaning": "getirmek",
+    "type": "word"
+  },
+  {
+    "word": "fierce",
+    "meaning": "şiddetli",
+    "type": "word"
+  }
+]

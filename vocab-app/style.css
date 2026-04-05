@@ -1,0 +1,315 @@
+:root {
+    --bg-color: #121212;
+    --card-bg: #1e1e1e;
+    --text-color: #ffffff;
+    --primary-color: #bb86fc;
+    --secondary-color: #03dac6;
+    --danger-color: #cf6679;
+    --success-color: #03dac6;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    margin: 0;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+}
+
+/* --- Layout & Header --- */
+.app-container {
+    max-width: 480px;
+    /* Mobile width constraint */
+    margin: 0 auto;
+    padding: 20px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h1 {
+    margin: 0;
+    font-size: 1.5rem;
+}
+
+.icon-btn {
+    background: none;
+    border: none;
+    color: var(--text-color);
+    cursor: pointer;
+    padding: 8px;
+}
+
+.header-spacer {
+    width: 40px;
+}
+
+/* Balances the home button */
+
+/* --- Dashboard (Levels) --- */
+.stats-container {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 25px;
+}
+
+.stat-card {
+    flex: 1;
+    background-color: var(--card-bg);
+    padding: 15px;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+.stat-value {
+    display: block;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: var(--primary-color);
+}
+
+.stat-label {
+    font-size: 0.9rem;
+    color: #bbb;
+}
+
+.section-title {
+    font-size: 1.2rem;
+    margin-bottom: 15px;
+    font-weight: 600;
+}
+
+.levels-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+    margin-bottom: 30px;
+    overflow-y: auto;
+    flex: 1;
+    /* Take remaining height */
+    padding-bottom: 20px;
+    /* Scroll padding */
+}
+
+/* Hide scrollbar */
+.levels-grid::-webkit-scrollbar {
+    display: none;
+}
+
+.levels-grid {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+.level-card {
+    background-color: var(--card-bg);
+    padding: 15px;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: transform 0.1s;
+    border: 2px solid transparent;
+}
+
+.level-card:active {
+    transform: scale(0.98);
+}
+
+.level-card.completed {
+    border-color: var(--success-color);
+}
+
+.level-title {
+    font-weight: bold;
+    margin-bottom: 8px;
+    display: block;
+}
+
+.level-progress-bg {
+    background-color: #333;
+    height: 8px;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.level-progress-fill {
+    height: 100%;
+    background-color: var(--primary-color);
+    width: 0%;
+    transition: width 0.3s;
+}
+
+/* --- Study View --- */
+.progress-bar-container {
+    height: 4px;
+    background: #333;
+    width: 100%;
+    margin-bottom: 20px;
+    border-radius: 2px;
+}
+
+.progress-bar {
+    height: 100%;
+    background: var(--primary-color);
+    width: 0%;
+    transition: width 0.3s;
+}
+
+.audio-btn {
+    background: none;
+    border: none;
+    color: var(--secondary-color);
+    cursor: pointer;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 50%;
+    transition: background-color 0.2s;
+}
+
+.audio-btn:active {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.card {
+    background-color: var(--card-bg);
+    border-radius: 16px;
+    padding: 30px;
+    text-align: center;
+    flex-grow: 1;
+    /* Fill available space */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+    transition: transform 0.1s;
+    position: relative;
+    width: 100%;
+    /* Fix width */
+    box-sizing: border-box;
+}
+
+.card:active {
+    transform: scale(0.98);
+}
+
+.card-content {
+    width: 100%;
+}
+
+.word-type {
+    color: #888;
+    font-style: italic;
+    margin-bottom: 15px;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background: #333;
+    margin: 20px 0;
+}
+
+#meaning-display {
+    font-size: 1.4rem;
+    line-height: 1.4;
+}
+
+.tap-hint {
+    color: #555;
+    font-size: 0.9rem;
+    margin-top: 10px;
+}
+
+/* --- Controls --- */
+.controls {
+    display: flex;
+    gap: 15px;
+    height: 60px;
+    /* Fixed height for consistent layout */
+    margin-top: auto;
+}
+
+.action-btn {
+    flex: 1;
+    border: none;
+    border-radius: 12px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    cursor: pointer;
+    color: white;
+    transition: filter 0.2s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
+
+.secondary-btn {
+    background-color: #333;
+    width: 100%;
+    padding: 15px;
+    margin-top: 10px;
+}
+
+.secondary-btn:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+.known-btn {
+    background-color: var(--success-color);
+    color: #000;
+}
+
+.unknown-btn {
+    background-color: var(--danger-color);
+    color: #000;
+}
+
+.hidden {
+    display: none !important;
+}
+
+/* Animation for Unknown */
+@keyframes shake {
+    0% {
+        transform: translateX(0);
+    }
+
+    25% {
+        transform: translateX(-5px);
+    }
+
+    50% {
+        transform: translateX(5px);
+    }
+
+    75% {
+        transform: translateX(-5px);
+    }
+
+    100% {
+        transform: translateX(0);
+    }
+}
+
+.shake-animation {
+    animation: shake 0.4s ease-in-out;
+    border: 1px solid var(--danger-color);
+}

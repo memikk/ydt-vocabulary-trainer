@@ -1,0 +1,10 @@
+.DS_Store
+*.log
+__pycache__/
+*.pyc
+
+YDT_Sozluk_App.zip
+vocab_full_raw.txt
+mass_data.txt
+
+vocab-app/data.js_temp

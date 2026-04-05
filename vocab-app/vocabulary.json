@@ -1,0 +1,1997 @@
+[
+  {
+    "word": "abandon",
+    "meaning": "terk etmek, vazgeçmek",
+    "type": "word"
+  },
+  {
+    "word": "ability",
+    "meaning": "yetenek, kabiliyet",
+    "type": "word"
+  },
+  {
+    "word": "abrupt",
+    "meaning": "ani, beklenmedik",
+    "type": "word"
+  },
+  {
+    "word": "absolutely",
+    "meaning": "kesinlikle",
+    "type": "word"
+  },
+  {
+    "word": "abstain",
+    "meaning": "sakınmak, çekimser kalmak",
+    "type": "word"
+  },
+  {
+    "word": "abundance",
+    "meaning": "bolluk, bereket",
+    "type": "word"
+  },
+  {
+    "word": "abundant",
+    "meaning": "bol, bereketli",
+    "type": "word"
+  },
+  {
+    "word": "abuse",
+    "meaning": "kötüye kullanmak, istismar etmek",
+    "type": "word"
+  },
+  {
+    "word": "accelerate",
+    "meaning": "hızlandırmak",
+    "type": "word"
+  },
+  {
+    "word": "accept",
+    "meaning": "kabul etmek",
+    "type": "word"
+  },
+  {
+    "word": "access",
+    "meaning": "erişim, ulaşmak",
+    "type": "word"
+  },
+  {
+    "word": "accessible",
+    "meaning": "erişilebilir",
+    "type": "word"
+  },
+  {
+    "word": "accidentally",
+    "meaning": "kazara, tesadüfen",
+    "type": "word"
+  },
+  {
+    "word": "accompany",
+    "meaning": "eşlik etmek",
+    "type": "word"
+  },
+  {
+    "word": "accomplish",
+    "meaning": "başarmak, tamamlamak",
+    "type": "word"
+  },
+  {
+    "word": "accordingly",
+    "meaning": "buna göre, bu doğrultuda",
+    "type": "connector (result)"
+  },
+  {
+    "word": "account for",
+    "meaning": "oluşturmak, açıklamak",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "accumulate",
+    "meaning": "birikmek, biriktirmek",
+    "type": "word"
+  },
+  {
+    "word": "accuracy",
+    "meaning": "doğruluk, kesinlik",
+    "type": "word"
+  },
+  {
+    "word": "accusation",
+    "meaning": "suçlama",
+    "type": "word"
+  },
+  {
+    "word": "achieve",
+    "meaning": "başarmak, elde etmek",
+    "type": "word"
+  },
+  {
+    "word": "achievement",
+    "meaning": "başarı",
+    "type": "word"
+  },
+  {
+    "word": "acknowledge",
+    "meaning": "kabul etmek, doğrulamak",
+    "type": "word"
+  },
+  {
+    "word": "acquire",
+    "meaning": "edinmek, kazanmak",
+    "type": "word"
+  },
+  {
+    "word": "act out",
+    "meaning": "dışa vurmak, canlandırmak",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "act up",
+    "meaning": "yaramazlık yapmak, sorun çıkarmak",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "adaptable",
+    "meaning": "uyum sağlayabilir",
+    "type": "word"
+  },
+  {
+    "word": "addiction",
+    "meaning": "bağımlılık",
+    "type": "word"
+  },
+  {
+    "word": "additional",
+    "meaning": "ek, ilave",
+    "type": "word"
+  },
+  {
+    "word": "address",
+    "meaning": "ele almak, hitap etmek",
+    "type": "word"
+  },
+  {
+    "word": "adequate",
+    "meaning": "yeterli",
+    "type": "word"
+  },
+  {
+    "word": "adhere to",
+    "meaning": "bağlı kalmak, uymak",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "adjust",
+    "meaning": "ayarlamak, uyum sağlamak",
+    "type": "word"
+  },
+  {
+    "word": "administer",
+    "meaning": "yönetmek, uygulamak",
+    "type": "word"
+  },
+  {
+    "word": "admire",
+    "meaning": "hayran olmak",
+    "type": "word"
+  },
+  {
+    "word": "admit",
+    "meaning": "kabul etmek, itiraf etmek",
+    "type": "word"
+  },
+  {
+    "word": "adopt",
+    "meaning": "benimsemek, evlat edinmek",
+    "type": "word"
+  },
+  {
+    "word": "advance",
+    "meaning": "ilerlemek, gelişmek",
+    "type": "word"
+  },
+  {
+    "word": "advantage",
+    "meaning": "avantaj",
+    "type": "word"
+  },
+  {
+    "word": "adverse",
+    "meaning": "olumsuz, kötü",
+    "type": "word"
+  },
+  {
+    "word": "affect",
+    "meaning": "etkilemek",
+    "type": "word"
+  },
+  {
+    "word": "affordable",
+    "meaning": "uygun fiyatlı",
+    "type": "word"
+  },
+  {
+    "word": "aim at",
+    "meaning": "hedeflemek",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "allocate",
+    "meaning": "tahsis etmek, ayırmak",
+    "type": "word"
+  },
+  {
+    "word": "allow",
+    "meaning": "izin vermek",
+    "type": "word"
+  },
+  {
+    "word": "also",
+    "meaning": "ayrıca, de/da",
+    "type": "connector (addition)"
+  },
+  {
+    "word": "alter",
+    "meaning": "değiştirmek",
+    "type": "word"
+  },
+  {
+    "word": "although",
+    "meaning": "olmasına rağmen",
+    "type": "connector (contrast)"
+  },
+  {
+    "word": "ambiguity",
+    "meaning": "belirsizlik",
+    "type": "word"
+  },
+  {
+    "word": "ambition",
+    "meaning": "hırs",
+    "type": "word"
+  },
+  {
+    "word": "amount to",
+    "meaning": "anlamına gelmek, tutmak",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "analysis",
+    "meaning": "analiz",
+    "type": "word"
+  },
+  {
+    "word": "ancient",
+    "meaning": "antik, eski",
+    "type": "word"
+  },
+  {
+    "word": "anticipation",
+    "meaning": "beklenti, sezmek",
+    "type": "word"
+  },
+  {
+    "word": "anxious",
+    "meaning": "endişeli",
+    "type": "word"
+  },
+  {
+    "word": "apologise",
+    "meaning": "özür dilemek",
+    "type": "word"
+  },
+  {
+    "word": "apparently",
+    "meaning": "görünüşe göre",
+    "type": "word"
+  },
+  {
+    "word": "appeal",
+    "meaning": "cezbetmek, başvurmak",
+    "type": "word"
+  },
+  {
+    "word": "appearance",
+    "meaning": "görünüş",
+    "type": "word"
+  },
+  {
+    "word": "application",
+    "meaning": "uygulama, başvuru",
+    "type": "word"
+  },
+  {
+    "word": "apply",
+    "meaning": "uygulamak, başvurmak",
+    "type": "word"
+  },
+  {
+    "word": "appoint",
+    "meaning": "atamak",
+    "type": "word"
+  },
+  {
+    "word": "appreciate",
+    "meaning": "takdir etmek, anlamak",
+    "type": "word"
+  },
+  {
+    "word": "approach",
+    "meaning": "yaklaşmak, yaklaşım",
+    "type": "word"
+  },
+  {
+    "word": "appropriate",
+    "meaning": "uygun",
+    "type": "word"
+  },
+  {
+    "word": "approve",
+    "meaning": "onaylamak",
+    "type": "word"
+  },
+  {
+    "word": "approximately",
+    "meaning": "yaklaşık olarak",
+    "type": "word"
+  },
+  {
+    "word": "argue",
+    "meaning": "tartışmak, iddia etmek",
+    "type": "word"
+  },
+  {
+    "word": "arrange",
+    "meaning": "düzenlemek",
+    "type": "word"
+  },
+  {
+    "word": "articulate",
+    "meaning": "açıkça ifade etmek",
+    "type": "word"
+  },
+  {
+    "word": "artificial",
+    "meaning": "yapay",
+    "type": "word"
+  },
+  {
+    "word": "as",
+    "meaning": "olarak, gibi, -dığı için",
+    "type": "connector (cause)"
+  },
+  {
+    "word": "as a result",
+    "meaning": "sonuç olarak",
+    "type": "connector (result)"
+  },
+  {
+    "word": "as long as",
+    "meaning": "-diği sürece",
+    "type": "connector (condition)"
+  },
+  {
+    "word": "aspiration",
+    "meaning": "arzu, istek",
+    "type": "word"
+  },
+  {
+    "word": "assess",
+    "meaning": "değerlendirmek",
+    "type": "word"
+  },
+  {
+    "word": "assessments",
+    "meaning": "değerlendirme",
+    "type": "word"
+  },
+  {
+    "word": "association",
+    "meaning": "dernek, ilişki",
+    "type": "word"
+  },
+  {
+    "word": "assume",
+    "meaning": "varsaymak, üstlenmek",
+    "type": "word"
+  },
+  {
+    "word": "assurance",
+    "meaning": "güvence, teminat",
+    "type": "word"
+  },
+  {
+    "word": "astonished",
+    "meaning": "şaşırmış",
+    "type": "word"
+  },
+  {
+    "word": "attach",
+    "meaning": "eklemek, bağlamak",
+    "type": "word"
+  },
+  {
+    "word": "attain",
+    "meaning": "elde etmek, ulaşmak",
+    "type": "word"
+  },
+  {
+    "word": "attempt",
+    "meaning": "girişim, denemek",
+    "type": "word"
+  },
+  {
+    "word": "attitude",
+    "meaning": "tutum, tavır",
+    "type": "word"
+  },
+  {
+    "word": "attract",
+    "meaning": "çekmek, cezbetmek",
+    "type": "word"
+  },
+  {
+    "word": "attribute",
+    "meaning": "atfetmek, özellik",
+    "type": "word"
+  },
+  {
+    "word": "availability",
+    "meaning": "kullanılabilirlik",
+    "type": "word"
+  },
+  {
+    "word": "available",
+    "meaning": "mevcut",
+    "type": "word"
+  },
+  {
+    "word": "average",
+    "meaning": "ortalama",
+    "type": "word"
+  },
+  {
+    "word": "avoid",
+    "meaning": "kaçınmak",
+    "type": "word"
+  },
+  {
+    "word": "awareness",
+    "meaning": "farkındalık",
+    "type": "word"
+  },
+  {
+    "word": "back down",
+    "meaning": "geri adım atmak, caymak",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "back up",
+    "meaning": "desteklemek, geri gitmek",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "badly",
+    "meaning": "kötü bir şekilde",
+    "type": "word"
+  },
+  {
+    "word": "balance",
+    "meaning": "denge",
+    "type": "word"
+  },
+  {
+    "word": "barrier",
+    "meaning": "engel",
+    "type": "word"
+  },
+  {
+    "word": "beat",
+    "meaning": "yenmek, vurmak",
+    "type": "word"
+  },
+  {
+    "word": "because",
+    "meaning": "çünkü, -diği için",
+    "type": "connector (cause)"
+  },
+  {
+    "word": "because of",
+    "meaning": "-den dolayı",
+    "type": "connector (cause)"
+  },
+  {
+    "word": "beneficial",
+    "meaning": "faydalı",
+    "type": "word"
+  },
+  {
+    "word": "benefit",
+    "meaning": "fayda, yararlanmak",
+    "type": "word"
+  },
+  {
+    "word": "besides",
+    "meaning": "bunun yanı sıra, ayrıca",
+    "type": "connector (addition)"
+  },
+  {
+    "word": "bizarre",
+    "meaning": "tuhaf, garip",
+    "type": "word"
+  },
+  {
+    "word": "blend",
+    "meaning": "karışmak, harmanlamak",
+    "type": "word"
+  },
+  {
+    "word": "blow over",
+    "meaning": "geçip gitmek, dinmek",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "boost",
+    "meaning": "artırmak, güçlendirmek",
+    "type": "word"
+  },
+  {
+    "word": "borrow",
+    "meaning": "ödünç almak",
+    "type": "word"
+  },
+  {
+    "word": "break down",
+    "meaning": "bozulmak, parçalanmak",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "break in",
+    "meaning": "zorla girmek, sözünü kesmek",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "break into",
+    "meaning": "zorla girmek",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "breakthrough",
+    "meaning": "atılım, buluş",
+    "type": "word"
+  },
+  {
+    "word": "brief",
+    "meaning": "kısa, öz",
+    "type": "word"
+  },
+  {
+    "word": "bring about",
+    "meaning": "neden olmak",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "bring back",
+    "meaning": "geri getirmek",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "bring down",
+    "meaning": "devirmek, azaltmak",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "bring in",
+    "meaning": "kazandırmak, getirmek",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "bring on",
+    "meaning": "neden olmak",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "bring out",
+    "meaning": "ortaya çıkarmak",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "bring up",
+    "meaning": "büyütmek, gündeme getirmek",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "build on",
+    "meaning": "üzerine inşa etmek",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "bump up against",
+    "meaning": "ile karşılaşmak",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "calculation",
+    "meaning": "hesaplama",
+    "type": "word"
+  },
+  {
+    "word": "call back",
+    "meaning": "geri aramak",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "call for",
+    "meaning": "gerektirmek, talep etmek",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "call off",
+    "meaning": "iptal etmek",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "calm",
+    "meaning": "sakin",
+    "type": "word"
+  },
+  {
+    "word": "capabilities",
+    "meaning": "kabiliyet",
+    "type": "word"
+  },
+  {
+    "word": "capability",
+    "meaning": "kabiliyet",
+    "type": "word"
+  },
+  {
+    "word": "capacity",
+    "meaning": "kapasite",
+    "type": "word"
+  },
+  {
+    "word": "capture",
+    "meaning": "yakalamak, ele geçirmek",
+    "type": "word"
+  },
+  {
+    "word": "carry away",
+    "meaning": "heyecanlandırmak, süreklemek",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "carry on",
+    "meaning": "devam etmek",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "carry out",
+    "meaning": "gerçekleştirmek, uygulamak",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "casual",
+    "meaning": "gündelik, sıradan",
+    "type": "word"
+  },
+  {
+    "word": "catch up",
+    "meaning": "yetişmek, yakalamak",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "cause",
+    "meaning": "neden olmak, sebep",
+    "type": "word"
+  },
+  {
+    "word": "cautiously",
+    "meaning": "dikkatlice",
+    "type": "word"
+  },
+  {
+    "word": "celebration",
+    "meaning": "kutlama",
+    "type": "word"
+  },
+  {
+    "word": "centre on",
+    "meaning": "odaklanmak",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "challenge",
+    "meaning": "zorluk, meydan okuma",
+    "type": "word"
+  },
+  {
+    "word": "check in",
+    "meaning": "giriş yapmak",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "choose",
+    "meaning": "seçmek",
+    "type": "word"
+  },
+  {
+    "word": "chronic",
+    "meaning": "kronik",
+    "type": "word"
+  },
+  {
+    "word": "circulate",
+    "meaning": "dolaşmak, yayılmak",
+    "type": "word"
+  },
+  {
+    "word": "circumstance",
+    "meaning": "durum, koşul",
+    "type": "word"
+  },
+  {
+    "word": "clarification",
+    "meaning": "açıklama, aydınlatma",
+    "type": "word"
+  },
+  {
+    "word": "clarity",
+    "meaning": "açıklık, netlik",
+    "type": "word"
+  },
+  {
+    "word": "classification",
+    "meaning": "sınıflandırma",
+    "type": "word"
+  },
+  {
+    "word": "clean up",
+    "meaning": "temizlemek",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "clear out",
+    "meaning": "boşaltmak, temizlemek",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "clearly",
+    "meaning": "açıkça",
+    "type": "word"
+  },
+  {
+    "word": "close",
+    "meaning": "yakın, kapatmak",
+    "type": "word"
+  },
+  {
+    "word": "close off",
+    "meaning": "kapatmak, engellemek",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "coincidence",
+    "meaning": "tesadüf",
+    "type": "word"
+  },
+  {
+    "word": "collaborate",
+    "meaning": "işbirliği yapmak",
+    "type": "word"
+  },
+  {
+    "word": "collection",
+    "meaning": "koleksiyon, toplama",
+    "type": "word"
+  },
+  {
+    "word": "combat",
+    "meaning": "mücadele etmek, savaşmak",
+    "type": "word"
+  },
+  {
+    "word": "come across",
+    "meaning": "karşılaşmak (tesadüfen)",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "come down with",
+    "meaning": "hastalanmak",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "come into",
+    "meaning": "mirasa konmak",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "come out",
+    "meaning": "ortaya çıkmak, yayımlanmak",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "come up with",
+    "meaning": "bulmak, üretmek (fikir)",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "command",
+    "meaning": "emir, komuta",
+    "type": "word"
+  },
+  {
+    "word": "comment",
+    "meaning": "yorum",
+    "type": "word"
+  },
+  {
+    "word": "commitment",
+    "meaning": "bağlılık, taahhüt",
+    "type": "word"
+  },
+  {
+    "word": "common",
+    "meaning": "yaygın, ortak",
+    "type": "word"
+  },
+  {
+    "word": "comparable",
+    "meaning": "karşılaştırılabilir",
+    "type": "word"
+  },
+  {
+    "word": "compelling",
+    "meaning": "zorlayıcı, ilgi uyandıran",
+    "type": "word"
+  },
+  {
+    "word": "compete",
+    "meaning": "rekabet etmek",
+    "type": "word"
+  },
+  {
+    "word": "competence",
+    "meaning": "yetkinlik",
+    "type": "word"
+  },
+  {
+    "word": "competition",
+    "meaning": "yarışma, rekabet",
+    "type": "word"
+  },
+  {
+    "word": "compile",
+    "meaning": "derlemek",
+    "type": "word"
+  },
+  {
+    "word": "complain",
+    "meaning": "şikayet etmek",
+    "type": "word"
+  },
+  {
+    "word": "complete",
+    "meaning": "tamamlamak, tam",
+    "type": "word"
+  },
+  {
+    "word": "compliment",
+    "meaning": "iltifat etmek",
+    "type": "word"
+  },
+  {
+    "word": "component",
+    "meaning": "bileşen",
+    "type": "word"
+  },
+  {
+    "word": "comprised",
+    "meaning": "oluşmak, içermek",
+    "type": "word"
+  },
+  {
+    "word": "comprises",
+    "meaning": "oluşmak, içermek",
+    "type": "word"
+  },
+  {
+    "word": "compulsory",
+    "meaning": "zorunlu",
+    "type": "word"
+  },
+  {
+    "word": "conceal",
+    "meaning": "gizlemek",
+    "type": "word"
+  },
+  {
+    "word": "concern",
+    "meaning": "endişe, ilgilendirmek",
+    "type": "word"
+  },
+  {
+    "word": "conclusion",
+    "meaning": "sonuç",
+    "type": "word"
+  },
+  {
+    "word": "condition",
+    "meaning": "durum, şart",
+    "type": "word"
+  },
+  {
+    "word": "conduct",
+    "meaning": "yürütmek, davranış",
+    "type": "word"
+  },
+  {
+    "word": "confirm",
+    "meaning": "onaylamak",
+    "type": "word"
+  },
+  {
+    "word": "conflict",
+    "meaning": "çatışma",
+    "type": "word"
+  },
+  {
+    "word": "conform",
+    "meaning": "uymak (kurala)",
+    "type": "word"
+  },
+  {
+    "word": "confront",
+    "meaning": "yüzleşmek",
+    "type": "word"
+  },
+  {
+    "word": "confuse",
+    "meaning": "kafasını karıştırmak",
+    "type": "word"
+  },
+  {
+    "word": "consent",
+    "meaning": "rıza, izin",
+    "type": "word"
+  },
+  {
+    "word": "consequence",
+    "meaning": "sonuç",
+    "type": "word"
+  },
+  {
+    "word": "consequently",
+    "meaning": "sonuç olarak",
+    "type": "connector (result)"
+  },
+  {
+    "word": "conservation",
+    "meaning": "koruma",
+    "type": "word"
+  },
+  {
+    "word": "consider",
+    "meaning": "düşünmek, göz önünde bulundurmak",
+    "type": "word"
+  },
+  {
+    "word": "considerable",
+    "meaning": "önemli, dikkate değer",
+    "type": "word"
+  },
+  {
+    "word": "consist of",
+    "meaning": "-den oluşmak",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "consistent",
+    "meaning": "tutarlı",
+    "type": "word"
+  },
+  {
+    "word": "constant",
+    "meaning": "sürekli, sabit",
+    "type": "word"
+  },
+  {
+    "word": "constrain",
+    "meaning": "kısıtlamak, zorlamak",
+    "type": "word"
+  },
+  {
+    "word": "constructive",
+    "meaning": "yapıcı",
+    "type": "word"
+  },
+  {
+    "word": "consult",
+    "meaning": "danışmak",
+    "type": "word"
+  },
+  {
+    "word": "consume",
+    "meaning": "tüketmek",
+    "type": "word"
+  },
+  {
+    "word": "contain",
+    "meaning": "içermek",
+    "type": "word"
+  },
+  {
+    "word": "contend",
+    "meaning": "iddia etmek, uğraşmak",
+    "type": "word"
+  },
+  {
+    "word": "contradict",
+    "meaning": "çelişmek",
+    "type": "word"
+  },
+  {
+    "word": "contribute",
+    "meaning": "katkıda bulunmak",
+    "type": "word"
+  },
+  {
+    "word": "control",
+    "meaning": "kontrol etmek",
+    "type": "word"
+  },
+  {
+    "word": "controversial",
+    "meaning": "tartışmalı",
+    "type": "word"
+  },
+  {
+    "word": "convenient",
+    "meaning": "uygun, elverişli",
+    "type": "word"
+  },
+  {
+    "word": "conventional",
+    "meaning": "geleneksel",
+    "type": "word"
+  },
+  {
+    "word": "converse",
+    "meaning": "konuşmak",
+    "type": "word"
+  },
+  {
+    "word": "conversely",
+    "meaning": "bunun aksine",
+    "type": "connector (contrast)"
+  },
+  {
+    "word": "conversion",
+    "meaning": "dönüşüm",
+    "type": "word"
+  },
+  {
+    "word": "convert",
+    "meaning": "dönüştürmek",
+    "type": "word"
+  },
+  {
+    "word": "convey",
+    "meaning": "iletmek",
+    "type": "word"
+  },
+  {
+    "word": "convince",
+    "meaning": "ikna etmek",
+    "type": "word"
+  },
+  {
+    "word": "cooperate",
+    "meaning": "işbirliği yapmak",
+    "type": "word"
+  },
+  {
+    "word": "correctly",
+    "meaning": "doğru bir şekilde",
+    "type": "word"
+  },
+  {
+    "word": "corrupt",
+    "meaning": "yozlaşmış",
+    "type": "word"
+  },
+  {
+    "word": "count on",
+    "meaning": "güvenmek",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "counter",
+    "meaning": "karşı koymak, tezgah",
+    "type": "word"
+  },
+  {
+    "word": "create",
+    "meaning": "yaratmak",
+    "type": "word"
+  },
+  {
+    "word": "critical",
+    "meaning": "kritik, eleştirel",
+    "type": "word"
+  },
+  {
+    "word": "crowded",
+    "meaning": "kalabalık",
+    "type": "word"
+  },
+  {
+    "word": "crucial",
+    "meaning": "çok önemli, hayati",
+    "type": "word"
+  },
+  {
+    "word": "cure",
+    "meaning": "tedavi etmek",
+    "type": "word"
+  },
+  {
+    "word": "current",
+    "meaning": "mevcut, akım",
+    "type": "word"
+  },
+  {
+    "word": "curtail",
+    "meaning": "kısıtlamak, azaltmak",
+    "type": "word"
+  },
+  {
+    "word": "cut off",
+    "meaning": "kesmek, durdurmak",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "dangerous",
+    "meaning": "tehlikeli",
+    "type": "word"
+  },
+  {
+    "word": "deal with",
+    "meaning": "uğraşmak, başa çıkmak",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "decide",
+    "meaning": "karar vermek",
+    "type": "word"
+  },
+  {
+    "word": "decisive",
+    "meaning": "belirleyici, kararlı",
+    "type": "word"
+  },
+  {
+    "word": "declare",
+    "meaning": "ilan etmek, beyan etmek",
+    "type": "word"
+  },
+  {
+    "word": "decline",
+    "meaning": "azalmak, reddetmek",
+    "type": "word"
+  },
+  {
+    "word": "decrease",
+    "meaning": "azalmak",
+    "type": "word"
+  },
+  {
+    "word": "dedicate",
+    "meaning": "adamak",
+    "type": "word"
+  },
+  {
+    "word": "defeat",
+    "meaning": "yenmek",
+    "type": "word"
+  },
+  {
+    "word": "defend",
+    "meaning": "savunmak",
+    "type": "word"
+  },
+  {
+    "word": "deficiencies",
+    "meaning": "eksiklik",
+    "type": "word"
+  },
+  {
+    "word": "deficiency",
+    "meaning": "eksiklik",
+    "type": "word"
+  },
+  {
+    "word": "definite",
+    "meaning": "kesin",
+    "type": "word"
+  },
+  {
+    "word": "degree",
+    "meaning": "derece",
+    "type": "word"
+  },
+  {
+    "word": "delay",
+    "meaning": "geciktirmek",
+    "type": "word"
+  },
+  {
+    "word": "deliberate",
+    "meaning": "kasıtlı",
+    "type": "word"
+  },
+  {
+    "word": "delicate",
+    "meaning": "hassas",
+    "type": "word"
+  },
+  {
+    "word": "deliver",
+    "meaning": "teslim etmek",
+    "type": "word"
+  },
+  {
+    "word": "demand",
+    "meaning": "talep etmek",
+    "type": "word"
+  },
+  {
+    "word": "depend on",
+    "meaning": "bağlı olmak, güvenmek",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "dependent",
+    "meaning": "bağımlı",
+    "type": "word"
+  },
+  {
+    "word": "deprived",
+    "meaning": "mahrum etmek",
+    "type": "word"
+  },
+  {
+    "word": "derive",
+    "meaning": "türetmek, kaynaklanmak",
+    "type": "word"
+  },
+  {
+    "word": "description",
+    "meaning": "tanım, açıklama",
+    "type": "word"
+  },
+  {
+    "word": "despite",
+    "meaning": "rağmen",
+    "type": "connector (contrast)"
+  },
+  {
+    "word": "destroy",
+    "meaning": "yok etmek",
+    "type": "word"
+  },
+  {
+    "word": "destruction",
+    "meaning": "yıkım",
+    "type": "word"
+  },
+  {
+    "word": "detect",
+    "meaning": "tespit etmek",
+    "type": "word"
+  },
+  {
+    "word": "deteriorate",
+    "meaning": "kötüleşmek",
+    "type": "word"
+  },
+  {
+    "word": "determination",
+    "meaning": "kararlılık",
+    "type": "word"
+  },
+  {
+    "word": "determine",
+    "meaning": "belirlemek",
+    "type": "word"
+  },
+  {
+    "word": "develop",
+    "meaning": "geliştirmek",
+    "type": "word"
+  },
+  {
+    "word": "devoted",
+    "meaning": "adamak",
+    "type": "word"
+  },
+  {
+    "word": "difference",
+    "meaning": "fark",
+    "type": "word"
+  },
+  {
+    "word": "differentiate",
+    "meaning": "ayırt etmek",
+    "type": "word"
+  },
+  {
+    "word": "difficult",
+    "meaning": "zor",
+    "type": "word"
+  },
+  {
+    "word": "diminish",
+    "meaning": "azalmak",
+    "type": "word"
+  },
+  {
+    "word": "disadvantaged",
+    "meaning": "dezavantaj",
+    "type": "word"
+  },
+  {
+    "word": "disappear",
+    "meaning": "gözden kaybolmak",
+    "type": "word"
+  },
+  {
+    "word": "discern",
+    "meaning": "ayırt etmek",
+    "type": "word"
+  },
+  {
+    "word": "discourage",
+    "meaning": "cesaretini kırmak",
+    "type": "word"
+  },
+  {
+    "word": "discover",
+    "meaning": "keşfetmek",
+    "type": "word"
+  },
+  {
+    "word": "dismiss",
+    "meaning": "kovmak, reddetmek",
+    "type": "word"
+  },
+  {
+    "word": "displayed",
+    "meaning": "sergilemek",
+    "type": "word"
+  },
+  {
+    "word": "dispose of",
+    "meaning": "elden çıkarmak",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "disrupt",
+    "meaning": "aksatmak, bozmak",
+    "type": "word"
+  },
+  {
+    "word": "dissolve",
+    "meaning": "çözülmek, eritmek",
+    "type": "word"
+  },
+  {
+    "word": "distinct",
+    "meaning": "belirgin, farklı",
+    "type": "word"
+  },
+  {
+    "word": "distinction",
+    "meaning": "ayrım",
+    "type": "word"
+  },
+  {
+    "word": "distinguish",
+    "meaning": "ayırt etmek",
+    "type": "word"
+  },
+  {
+    "word": "distract",
+    "meaning": "dikkatini dağıtmak",
+    "type": "word"
+  },
+  {
+    "word": "disturb",
+    "meaning": "rahatsız etmek",
+    "type": "word"
+  },
+  {
+    "word": "divide",
+    "meaning": "bölmek",
+    "type": "word"
+  },
+  {
+    "word": "division",
+    "meaning": "bölüm",
+    "type": "word"
+  },
+  {
+    "word": "do away with",
+    "meaning": "yürürlükten kaldırmak, yok etmek",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "domestic",
+    "meaning": "yerli, evcil",
+    "type": "word"
+  },
+  {
+    "word": "dramatic",
+    "meaning": "çarpıcı",
+    "type": "word"
+  },
+  {
+    "word": "draw on",
+    "meaning": "yararlanmak (kaynaktan)",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "draw up",
+    "meaning": "hazırlamak, düzenlemek",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "drawback",
+    "meaning": "dezavantaj",
+    "type": "word"
+  },
+  {
+    "word": "due to",
+    "meaning": "-den dolayı, nedeniyle",
+    "type": "connector (cause)"
+  },
+  {
+    "word": "durable",
+    "meaning": "dayanıklı",
+    "type": "word"
+  },
+  {
+    "word": "eager",
+    "meaning": "istekli, hevesli",
+    "type": "word"
+  },
+  {
+    "word": "early",
+    "meaning": "erken",
+    "type": "word"
+  },
+  {
+    "word": "easily",
+    "meaning": "kolayca",
+    "type": "word"
+  },
+  {
+    "word": "efficiency",
+    "meaning": "verimlilik",
+    "type": "word"
+  },
+  {
+    "word": "efficient",
+    "meaning": "verimli",
+    "type": "word"
+  },
+  {
+    "word": "elaborate",
+    "meaning": "ayrıntılı, detaylandırmak",
+    "type": "word"
+  },
+  {
+    "word": "election",
+    "meaning": "seçim",
+    "type": "word"
+  },
+  {
+    "word": "embarrassing",
+    "meaning": "utanç verici",
+    "type": "word"
+  },
+  {
+    "word": "emerge",
+    "meaning": "ortaya çıkmak",
+    "type": "word"
+  },
+  {
+    "word": "emotion",
+    "meaning": "duygu",
+    "type": "word"
+  },
+  {
+    "word": "employ",
+    "meaning": "işe almak, uygulamak",
+    "type": "word"
+  },
+  {
+    "word": "enable",
+    "meaning": "olanak sağlamak",
+    "type": "word"
+  },
+  {
+    "word": "end up",
+    "meaning": "sonunda ... olmak",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "endure",
+    "meaning": "dayanmak, katlanmak",
+    "type": "word"
+  },
+  {
+    "word": "enormous",
+    "meaning": "kocaman, muazzam",
+    "type": "word"
+  },
+  {
+    "word": "ensure",
+    "meaning": "sağlamak, garanti etmek",
+    "type": "word"
+  },
+  {
+    "word": "entertain",
+    "meaning": "eğlendirmek",
+    "type": "word"
+  },
+  {
+    "word": "entitled",
+    "meaning": "yetki vermek",
+    "type": "word"
+  },
+  {
+    "word": "equipment",
+    "meaning": "ekipman",
+    "type": "word"
+  },
+  {
+    "word": "equivalent",
+    "meaning": "eşdeğer",
+    "type": "word"
+  },
+  {
+    "word": "eradicate",
+    "meaning": "kökünü kazımak, yok etmek",
+    "type": "word"
+  },
+  {
+    "word": "escalate",
+    "meaning": "tırmanmak, yükselmek",
+    "type": "word"
+  },
+  {
+    "word": "especially",
+    "meaning": "özellikle",
+    "type": "word"
+  },
+  {
+    "word": "essential",
+    "meaning": "temel, gerekli",
+    "type": "word"
+  },
+  {
+    "word": "establish",
+    "meaning": "kurmak, sağlamak",
+    "type": "word"
+  },
+  {
+    "word": "estimate",
+    "meaning": "tahmin etmek",
+    "type": "word"
+  },
+  {
+    "word": "even though",
+    "meaning": "olsa bile, -e rağmen",
+    "type": "connector (contrast)"
+  },
+  {
+    "word": "eventually",
+    "meaning": "sonunda",
+    "type": "word"
+  },
+  {
+    "word": "evidence",
+    "meaning": "kanıt",
+    "type": "word"
+  },
+  {
+    "word": "evident",
+    "meaning": "belirgin",
+    "type": "word"
+  },
+  {
+    "word": "examine",
+    "meaning": "incelemek",
+    "type": "word"
+  },
+  {
+    "word": "excavate",
+    "meaning": "kazı yapmak",
+    "type": "word"
+  },
+  {
+    "word": "exceed",
+    "meaning": "aşmak",
+    "type": "word"
+  },
+  {
+    "word": "exception",
+    "meaning": "istisna",
+    "type": "word"
+  },
+  {
+    "word": "excessive",
+    "meaning": "aşırı",
+    "type": "word"
+  },
+  {
+    "word": "exchange",
+    "meaning": "takas etmek",
+    "type": "word"
+  },
+  {
+    "word": "excited",
+    "meaning": "heyecanlandırmak",
+    "type": "word"
+  },
+  {
+    "word": "exclusive",
+    "meaning": "özel, ayrıcalıklı",
+    "type": "word"
+  },
+  {
+    "word": "excuse",
+    "meaning": "bahane, affetmek",
+    "type": "word"
+  },
+  {
+    "word": "exhausted",
+    "meaning": "tüketmek, egzoz",
+    "type": "word"
+  },
+  {
+    "word": "exhausting",
+    "meaning": "tüketmek, egzoz",
+    "type": "word"
+  },
+  {
+    "word": "expand",
+    "meaning": "genişlemek",
+    "type": "word"
+  },
+  {
+    "word": "expect",
+    "meaning": "ummak, beklemek",
+    "type": "word"
+  },
+  {
+    "word": "expense",
+    "meaning": "masraf",
+    "type": "word"
+  },
+  {
+    "word": "expire",
+    "meaning": "süresi dolmak",
+    "type": "word"
+  },
+  {
+    "word": "explain",
+    "meaning": "açıklamak",
+    "type": "word"
+  },
+  {
+    "word": "explore",
+    "meaning": "keşfetmek",
+    "type": "word"
+  },
+  {
+    "word": "express",
+    "meaning": "ifade etmek",
+    "type": "word"
+  },
+  {
+    "word": "extend",
+    "meaning": "uzatmak",
+    "type": "word"
+  },
+  {
+    "word": "external",
+    "meaning": "harici",
+    "type": "word"
+  },
+  {
+    "word": "extract",
+    "meaning": "çıkarmak, öz",
+    "type": "word"
+  },
+  {
+    "word": "facilitate",
+    "meaning": "kolaylaştırmak",
+    "type": "word"
+  },
+  {
+    "word": "facility",
+    "meaning": "tesis, imkan",
+    "type": "word"
+  },
+  {
+    "word": "fail",
+    "meaning": "başarısız olmak",
+    "type": "word"
+  },
+  {
+    "word": "fairly",
+    "meaning": "oldukça, adilce",
+    "type": "word"
+  },
+  {
+    "word": "fall apart",
+    "meaning": "parçalanmak",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "fall behind",
+    "meaning": "geride kalmak",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "fall for",
+    "meaning": "kanmak, aşık olmak",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "familiar",
+    "meaning": "tanıdık",
+    "type": "word"
+  },
+  {
+    "word": "fasten",
+    "meaning": "bağlamak (kemer vb.)",
+    "type": "word"
+  },
+  {
+    "word": "features",
+    "meaning": "özellik",
+    "type": "word"
+  },
+  {
+    "word": "fertile",
+    "meaning": "verimli, bereketli",
+    "type": "word"
+  },
+  {
+    "word": "fetch",
+    "meaning": "gidip getirmek",
+    "type": "word"
+  },
+  {
+    "word": "fierce",
+    "meaning": "şiddetli, azılı",
+    "type": "word"
+  },
+  {
+    "word": "figure out",
+    "meaning": "çözmek, anlamak",
+    "type": "phrasal_verb"
+  },
+  {
+    "word": "for example",
+    "meaning": "örneğin",
+    "type": "connector (example)"
+  },
+  {
+    "word": "for instance",
+    "meaning": "örneğin",
+    "type": "connector (example)"
+  },
+  {
+    "word": "furthermore",
+    "meaning": "dahası, ayrıca",
+    "type": "connector (addition)"
+  },
+  {
+    "word": "hence",
+    "meaning": "bu yüzden, bundan dolayı",
+    "type": "connector (result)"
+  },
+  {
+    "word": "however",
+    "meaning": "ancak, yine de",
+    "type": "connector (contrast)"
+  },
+  {
+    "word": "if",
+    "meaning": "eğer",
+    "type": "connector (condition)"
+  },
+  {
+    "word": "in addition",
+    "meaning": "buna ek olarak",
+    "type": "connector (addition)"
+  },
+  {
+    "word": "in case",
+    "meaning": "olur diye, durumunda",
+    "type": "connector (condition)"
+  },
+  {
+    "word": "in order to",
+    "meaning": "-mek için",
+    "type": "connector (purpose)"
+  },
+  {
+    "word": "in other words",
+    "meaning": "başka bir deyişle",
+    "type": "connector (clarification)"
+  },
+  {
+    "word": "in spite of",
+    "meaning": "rağmen",
+    "type": "connector (contrast)"
+  },
+  {
+    "word": "meanwhile",
+    "meaning": "bu arada",
+    "type": "connector (time)"
+  },
+  {
+    "word": "moreover",
+    "meaning": "dahası, ayrıca",
+    "type": "connector (addition)"
+  },
+  {
+    "word": "much as",
+    "meaning": "her ne kadar ... ise de",
+    "type": "connector (contrast)"
+  },
+  {
+    "word": "nevertheless",
+    "meaning": "yine de, buna rağmen",
+    "type": "connector (contrast)"
+  },
+  {
+    "word": "nonetheless",
+    "meaning": "yine de, buna rağmen",
+    "type": "connector (contrast)"
+  },
+  {
+    "word": "not only... but also",
+    "meaning": "sadece ... değil, aynı zamanda ...",
+    "type": "connector (addition)"
+  },
+  {
+    "word": "on account of",
+    "meaning": "-den dolayı, yüzünden",
+    "type": "connector (cause)"
+  },
+  {
+    "word": "on condition that",
+    "meaning": "şartıyla",
+    "type": "connector (condition)"
+  },
+  {
+    "word": "on the contrary",
+    "meaning": "aksine, tam tersine",
+    "type": "connector (contrast)"
+  },
+  {
+    "word": "on the other hand",
+    "meaning": "öte yandan",
+    "type": "connector (contrast)"
+  },
+  {
+    "word": "otherwise",
+    "meaning": "aksi takdirde",
+    "type": "connector (condition)"
+  },
+  {
+    "word": "owing to",
+    "meaning": "-den dolayı, sayesinde",
+    "type": "connector (cause)"
+  },
+  {
+    "word": "provided that",
+    "meaning": "şartıyla",
+    "type": "connector (condition)"
+  },
+  {
+    "word": "providing",
+    "meaning": "şartıyla",
+    "type": "connector (condition)"
+  },
+  {
+    "word": "since",
+    "meaning": "-den beri, çünkü",
+    "type": "connector (cause)"
+  },
+  {
+    "word": "so long as",
+    "meaning": "-diği sürece",
+    "type": "connector (condition)"
+  },
+  {
+    "word": "so that",
+    "meaning": "-sin diye",
+    "type": "connector (purpose)"
+  },
+  {
+    "word": "still",
+    "meaning": "yine de, hala",
+    "type": "connector (contrast)"
+  },
+  {
+    "word": "subsequently",
+    "meaning": "sonrasında, akabinde",
+    "type": "connector (time)"
+  },
+  {
+    "word": "such as",
+    "meaning": "gibi",
+    "type": "connector (example)"
+  },
+  {
+    "word": "thanks to",
+    "meaning": "sayesinde",
+    "type": "connector (cause)"
+  },
+  {
+    "word": "that is",
+    "meaning": "yani",
+    "type": "connector (clarification)"
+  },
+  {
+    "word": "thereby",
+    "meaning": "dolayısıyla, böylece",
+    "type": "connector (result)"
+  },
+  {
+    "word": "therefore",
+    "meaning": "bu nedenle, dolayısıyla",
+    "type": "connector (result)"
+  },
+  {
+    "word": "though",
+    "meaning": "olmasına rağmen, -sa da",
+    "type": "connector (contrast)"
+  },
+  {
+    "word": "thus",
+    "meaning": "böylece, bu nedenle",
+    "type": "connector (result)"
+  },
+  {
+    "word": "unless",
+    "meaning": "-medikçe, olmazsa",
+    "type": "connector (condition)"
+  },
+  {
+    "word": "what is more",
+    "meaning": "dahası",
+    "type": "connector (addition)"
+  },
+  {
+    "word": "whereas",
+    "meaning": "oysa, halbuki",
+    "type": "connector (contrast)"
+  },
+  {
+    "word": "while",
+    "meaning": "iken, oysa",
+    "type": "connector (contrast)"
+  },
+  {
+    "word": "yet",
+    "meaning": "yine de, ancak",
+    "type": "connector (contrast)"
+  }
+]
